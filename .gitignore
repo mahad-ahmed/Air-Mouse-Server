@@ -8,3 +8,4 @@ Release/*obj
 x64/Release/*pdb
 x64/Release/*obj
 Air Mouse Server/x64/Debug
+/x64/Debug
