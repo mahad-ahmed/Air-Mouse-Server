@@ -5,3 +5,5 @@ Air Mouse Server/Release
 Air Mouse Server/x64
 Release/*pdb
 Release/*obj
+x64/Release/*pdb
+x64/Release/*obj
