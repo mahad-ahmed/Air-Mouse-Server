@@ -3,3 +3,5 @@
 .git
 Air Mouse Server/Release
 Air Mouse Server/x64
+Release/*pdb
+Release/*obj
