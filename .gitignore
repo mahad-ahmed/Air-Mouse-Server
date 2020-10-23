@@ -9,3 +9,8 @@ x64/Release/*pdb
 x64/Release/*obj
 Air Mouse Server/x64/Debug
 /x64/Debug
+Air Mouse Server/Air Mouse Server.aps
+Air Mouse Server/Air Mouse Server.vcxproj
+Air Mouse Server/Air Mouse Server.vcxproj.filters
+Air Mouse Server/Air Mouse Server.vcxproj.user
+Air Mouse Server/Resource.aps
