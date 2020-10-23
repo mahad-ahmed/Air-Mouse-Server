@@ -1,4 +1,4 @@
 # Air Mouse Server
-
-[64-bit Executable](https://github.com/mahad-ahmed/Air-Mouse-Server/raw/master/x64/Release/Air%20Mouse%20Server.exe)
-<br>[32-bit Executable](https://github.com/mahad-ahmed/Air-Mouse-Server/raw/master/Release/Air%20Mouse%20Server.exe)
+### Download:
+[Windows](https://github.com/mahad-ahmed/Air-Mouse-Server/raw/master/x64/Release/AirMouse_v3.2.2.zip)
+<br>[Windows (32-bit)](https://github.com/mahad-ahmed/Air-Mouse-Server/raw/master/Release/AirMouse_x86_v3.2.2.zip)

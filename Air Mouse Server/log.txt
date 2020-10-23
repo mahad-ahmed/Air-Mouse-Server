@@ -1,4 +1,0 @@
-1579216965612: Starting message loop
-1579216965617: Starting mouse thread
-1579216965617: Binding mouse socket
-1579216965620: Starting mouse recv loop

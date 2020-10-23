@@ -1,7 +1,0 @@
-1597783085108: Starting message loop
-1597783085111: Starting mouse thread
-1597783085115: Binding mouse socket
-1597783085116: Starting mouse recv loop
-1597783087658: Exited message loop
-1597783087658Closing sockets
-1597783087658: Got SOCKET_ERROR with error code 10004, exited mouse recv loop
